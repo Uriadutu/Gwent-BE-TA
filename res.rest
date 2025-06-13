@@ -1,0 +1,33 @@
+### Test Rekomendasi Lagu
+
+POST http://localhost:8000/rekomendasi
+Content-Type: application/json
+
+{
+  "keyword": "Allah Peduli"
+}
+
+###
+GET http://localhost:8000/lagu/56
+
+###
+GET http://localhost:8000/lagu/
+
+###
+GET http://localhost:8000/lagu/judul/tes
+
+###
+GET http://localhost:8000/lagu/1/genre
+
+
+###
+POST http://localhost:8000/lagu
+
+{
+    "judul" : "tes",
+    "penyanyi" : "tes",
+    "tahun_rilis" : "tes",
+    "label" : "tes",
+    "genre" : "tes",
+    "lirik" : "tes"
+}
