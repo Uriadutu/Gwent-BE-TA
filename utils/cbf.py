@@ -6,6 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
+
 def fetch_data():
     url = "http://localhost:8000/lagu"
     response = requests.get(url)
