@@ -4,14 +4,30 @@ POST http://localhost:8000/rekomendasi
 Content-Type: application/json
 
 {
-  "keyword": "Allah Peduli"
+  "keyword": "Allah mengerti"
 }
 
 ###
 GET http://localhost:8000/lagu/56
 
+### Cek rekomendasi lagu berdasarkan keyword
+POST http://localhost:8000/pemrosesan/
+Content-Type: application/json
+
+{
+  "keyword": "Yesus Kawan Yang Sejati"
+}
+
+### Cek rekomendasi lagu berdasarkan keyword
+GET http://localhost:8000/validasi/
+Content-Type: application/json
+
+
 ###
 GET http://localhost:8000/lagu/
+
+###
+GET http://localhost:8000/validasi/map
 
 ###
 GET http://localhost:8000/lagu/judul/tes

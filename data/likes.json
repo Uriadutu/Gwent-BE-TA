@@ -1,0 +1,183 @@
+{
+  "kasih yesus": {
+    "recommended": [
+      "Ingat KasihNya",
+      "KasihMu Tiada Duanya",
+      "Walau Seribu Rebah",
+      "Bapa Yang Setia",
+      "Pakai Aku Tuhan"
+    ],
+    "relevan": {
+      "Ingat KasihNya": 0,
+      "KasihMu Tiada Duanya": 1,
+      "Walau Seribu Rebah": 2
+    }
+  },
+  "yesus abadi": {
+    "recommended": [
+      "Harap Akan Tuhan",
+      "Harap Akan Tuhan",
+      "Ku Berbahagia",
+      "Saat Ku Pulang Menghadap Bapa",
+      "Tuhan Selalu Menolongku"
+    ],
+    "relevan": {}
+  },
+  "haleluya": {
+    "recommended": [
+      "Kunyanyi Haleluya",
+      "Bapa Engkau Baik",
+      "Jangan Pernah Menyerah",
+      "Haleluya",
+      "Harap Akan Tuhan"
+    ],
+    "relevan": {
+      "Kunyanyi Haleluya": 0,
+      "Haleluya": 3
+    }
+  },
+  "bapa engkau mengenalku": {
+    "recommended": [
+      "Berserah",
+      "Kau Tuhan Mengerti Lebih Dulu",
+      "Saat Ku Pulang Menghadap Bapa",
+      "Bapa Engkau Sungguh Baik",
+      "Bapa Yang Mengasihiku"
+    ],
+    "relevan": {
+      "Berserah": 0
+    }
+  },
+  "yesus baik": {
+    "recommended": [
+      "Kunaikkan Syukur PadaMu/Ku Bersyukur",
+      "KemurahanMu",
+      "Jika Jiwaku Berdoa",
+      "Gembala Baik Bersuling Nan Merdu",
+      "Mengenal-Mu"
+    ],
+    "relevan": {
+      "Kunaikkan Syukur PadaMu/Ku Bersyukur": 0,
+      "KemurahanMu": 1,
+      "Jika Jiwaku Berdoa": 2
+    }
+  },
+  "kemurahan tuhan": {
+    "recommended": [
+      "Kau Mengasihiku",
+      "Kebaikan Tuhan",
+      "Waktu Tuhan",
+      "Smua Baik",
+      "Tuhan Kau Gembala Kami"
+    ],
+    "relevan": {
+      "Kau Mengasihiku": 0,
+      "Kebaikan Tuhan": 1
+    }
+  },
+  "penolong setia": {
+    "recommended": [
+      "Penolong Yang Setia",
+      "Yesus Kawan Yang Sejati",
+      "Penolong Yang Setia",
+      "Segala Perkara",
+      "Roh Kudus"
+    ],
+    "relevan": {
+      "Penolong Yang Setia": 0,
+      "Yesus Kawan Yang Sejati": 1
+    }
+  },
+  "tuhan baik bagiku": {
+    "recommended": [
+      "Ku Berserah",
+      "KemurahanMu",
+      "Bapa Engkau Sungguh Baik",
+      "Ku Tahu Bapa Peliharaku",
+      "Kau Berarti Bagiku"
+    ],
+    "relevan": {
+      "Ku Berserah": 0,
+      "KemurahanMu": 1,
+      "Bapa Engkau Sungguh Baik": 2
+    }
+  },
+  "yesus adalah jawaban": {
+    "recommended": [
+      "PertolonganMu",
+      "Kala Ku Cari Damai",
+      "Mampirlah Dengar Doaku",
+      "Yesus Yang Kupercaya",
+      "Segala Perkara"
+    ],
+    "relevan": {
+      "PertolonganMu": 0,
+      "Kala Ku Cari Damai": 1,
+      "Mampirlah Dengar Doaku": 2
+    }
+  },
+  "el shaddai": {
+    "recommended": [
+      "El Shaddai medley S'bab Kau Besar Tuhan",
+      "El Shaddai"
+    ],
+    "relevan": {
+      "El Shaddai medley S'bab Kau Besar Tuhan": 0
+    }
+  },
+  "waktu tuhan": {
+    "recommended": [
+      "Waktu Tuhan",
+      "Dia Mengerti",
+      "Walau Seribu Rebah",
+      "WAKTU YANG TEPAT",
+      "Pembimbingku"
+    ],
+    "relevan": {
+      "Waktu Tuhan": 0
+    }
+  },
+  "sejuta rasa di jiwa rindu": {
+    "recommended": [
+      "Sejuta Rasa",
+      "Ku Mau Iring Tuhan",
+      "Tenanglah Kini Hatiku",
+      "Yesus Hanya Sejauh Doa",
+      "Sejauh Doa"
+    ],
+    "relevan": {}
+  },
+  "allah baik": {
+    "recommended": [
+      "Tuhan Allah T'lah Berfirman",
+      "Jika Padaku Ditanyakan",
+      "Mampirlah Dengar Doaku",
+      "Jangan Pernah Menyerah",
+      "Kau Berarti Bagiku"
+    ],
+    "relevan": {}
+  },
+  "kuasa mu nyata": {
+    "recommended": [
+      "Berserah",
+      "Dalam Tangan Tuhan",
+      "Persembahan Hati",
+      "Roh Mu Yang Hidup",
+      "Kau Mengasihiku"
+    ],
+    "relevan": {
+      "Berserah": 0,
+      "Dalam Tangan Tuhan": 1
+    }
+  },
+  "2025": {
+    "recommended": [
+      "Dalam Tangan Tuhan",
+      "Tenang Bersama-Mu",
+      "Kau Mengasihiku",
+      "Kala Ku Cari Damai",
+      "Nama Yang Termanis"
+    ],
+    "relevan": {}
+  }
+}
